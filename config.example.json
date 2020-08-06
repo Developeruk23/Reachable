@@ -1,0 +1,9 @@
+{
+  "interval": 30,
+  "ip_devices": {},
+  "messages": {
+    "unreachable": "{} is unreachable",
+    "reachable": "{} is reachable",
+    "lost_connection": "{} has gone offline (unreachable)"
+  }
+}
